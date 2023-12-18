@@ -4,7 +4,7 @@ This project is made to accomplish tugas besar mata kuliah Pemrograman Web RA In
 Nama: Ihsan Triyadi
 NIM: 121140163
 
-**live at**: ihsantriyadi121140163.kesug.com
+**live at**: ihsantriyadi121140163.kesug.com/
 
 ## Description
 This project, demonstrates a server-side rendering approach using PHP. It focuses on managing and displaying game data stored in a database.
@@ -57,11 +57,8 @@ Bagian bonus ini akan memberikan bobot tambahan 20% jika Anda berhasil meng-host
 4. Jelaskan konfigurasi server yang Anda terapkan untuk mendukung aplikasi web Anda.
     Konfigurasi yang saya terapkan antara lain konfigurasi alamat website, dan konfigurasi database website
 
+Note : Please note that it can take up to 72 hours for a new domain name or hosting account to start working everywhere, di hosting infinityfree tersebut diperlukan waktu hingga 3 hari agar hosting dapat di akses dimana saja, untuk saat ini hanya beberapa perangkat saja yang bisa membuka website tersebut termasuk perangkat saya sendiri dan mulai 3 hari dari sekarang mungkin sesuai catatan dari website hosting infinity free website ihsantriyadi121140163.kesug.com/ bisa diakses dimana saja. untuk saat ini mungkin bisa diakses dengan chrome dengan cara memblok website tersebut klik kanan lalu klik go website.
 
 
 
 
-
-This project serves as a learning example and can be further enhanced with additional features or improvements.
-
-Feel free to contribute, report issues, or suggest improvements.
