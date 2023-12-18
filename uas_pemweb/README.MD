@@ -23,7 +23,7 @@ This project, demonstrates a server-side rendering approach using PHP. It focuse
 - **Database**: MySQL
 
 ## How to Use
-- - Jelajahi antarmuka untuk melihat, menambahkan, mengedit, atau menghapus entri data Mahasiswa KKN.
+- Jelajahi antarmuka untuk melihat, menambahkan, mengedit, atau menghapus entri data Mahasiswa KKN.
 - Gunakan tombol `Tambah Data` untuk menambahkan data Mahasiswa baru.
 - Lakukan pengeditan atau penghapusan data Mahasiswa yang sudah ada melalui tombol yang tersedia di setiap baris entri.
 
