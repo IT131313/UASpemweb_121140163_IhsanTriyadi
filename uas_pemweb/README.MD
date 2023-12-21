@@ -1,5 +1,5 @@
 # Project UAS Pemrograman Web
-This project is made to accomplish tugas besar mata kuliah Pemrograman Web RA Intitut Teknologi Sumatera
+This project is made to accomplish tugas besar mata kuliah Pemrograman Web RC Intitut Teknologi Sumatera
 
 Nama: Ihsan Triyadi
 NIM: 121140163
